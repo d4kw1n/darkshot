@@ -94,10 +94,10 @@ Ví dụ đã kiểm chứng: **1200 × 675 px @ 191 DPI ≈ 15.96 × 8.98 cm**.
 
 ### Bản đã publish
 
-Tải zip từ [GitHub Releases](https://github.com/d4kw1n/darkshot/releases/latest), giải nén và chạy:
+Tải zip từ [GitHub Releases](https://github.com/d4kw1n/darkshot/releases/latest), giải nén vào một thư mục bất kỳ và chạy:
 
 ```text
-DarkShot\DarkShot.exe
+DarkShot.exe
 ```
 
 Yêu cầu: **Windows 10/11 x64** + **.NET Desktop Runtime 10 (x64)**.
