@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DarkShot/DarkShot.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DarkShot.Tests/DarkShot.Tests.csproj" />
+  </Folder>
+</Solution>
