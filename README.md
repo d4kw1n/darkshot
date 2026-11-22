@@ -1,6 +1,6 @@
 # DarkShot
 
-**Chụp màn hình kiểu Lightshot dành cho pentest / red team / bug bounty — nhẹ, local-only, xuất ảnh chuẩn cho báo cáo Word.**
+**Chụp màn hình kiểu Lightshot, xuất ảnh chuẩn cho báo cáo Word.**
 
 **GitHub:** <https://github.com/d4kw1n/darkshot>  
 **Tải bản build:** <https://github.com/d4kw1n/darkshot/releases/latest>
